@@ -5,6 +5,7 @@ menu = "main"
 
 # About Shira
 ![me](https://i.ibb.co/RhS95Ww/twistedtranssister-me-riding-on-the-back-of-a-black-stalion-whi-a532639f-2b67-495b-94c6-96cc3f93dfa2.png)
+
 ✡️Jewish 🏳️‍⚧️Trans-woman 👩🏼‍🦽Disabled 🌹Libertarian Socialist 🇨🇱Texan
 
 # Core Beliefs:
