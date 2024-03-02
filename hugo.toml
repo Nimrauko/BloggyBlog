@@ -3,7 +3,7 @@
 baseURL = "https://bloggyblog.pages.dev"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = 'hugo-blog-awesome'
 
 # Basic metadata configuration for your blog.
 title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
