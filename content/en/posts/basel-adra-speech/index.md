@@ -1,6 +1,6 @@
 +++
 title = "Basel Adra's Speech"
-date = "2024-03-02T12:29:17-06:00"
+date = "2024-02-29T12:29:17-06:00"
 
 #
 # description is optional
