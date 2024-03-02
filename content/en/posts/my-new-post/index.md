@@ -1,41 +1,22 @@
----
-author: Hugo Authors
-title: Placeholder Text
-date: 2023-02-07
-description: A post with placeholder text
----
++++
+title = "Twitter statement from Yuval Abraham"
+date = "2024-03-02T12:29:17-06:00"
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+#
+# description is optional
+#
+# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
+tags = ["Personal", "Twitter", "Yuval Abraham"]
++++
+# A Statement from Yuval Abraham regarding post German Award
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+"A right-wing Israeli mob came to my family’s home yesterday to search for me, threatening close family members who fled to another town in the middle of the night. I am still getting death threats and had to cancel my flight home. 
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+This happened after Israeli media and German politicians absurdly labeled my Berlinale award speech - where I called for equality between Israelis and Palestinians, a ceasefire and an end to apartheid - as ‘antisemitic’. 
 
-# Vagus elidunt
+The appalling misuse of this word by Germans, not only to silence Palestinian critics of Israel, but also to silence Israelis like me who support a ceasefire that will end the killing in Gaza and allow the release of the Israeli hostages - empties the word antisemitism of meaning and thus endangers Jews all over the world. 
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+As my grandmother was born in a concentration camp in Libya and most of my grandfather’s family was murdered by Germans in the holocaust, I find it particularly outraging that German politicians in 2024 have the audacity to weaponize this term against me in a way that endangered my family. But above all else, this behavior puts Palestinian co-director Basel Adra’s life in danger, who lives under a military occupation surrounded by violent settlements in Masafer Yatta. He is in far greater danger than I am. 
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
-
-## Mane refeci capiebant unda mulcebat
-
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
-
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides **parte**.
-
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
+I’m happy our award winning film, No Other Land, is sparking an important international debate on this issue - and I hope that millions of people watch it when it comes out this year. Sparking a conversation is why we made it. You can have harsh criticism of what me and Basel said on stage without demonizing us. If this is what you’re doing with your guilt for the holocaust - I don’t want your guilt." - https://twitter.com/yuval_abraham/status/1762558886207209838

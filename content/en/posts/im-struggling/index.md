@@ -1,50 +1,19 @@
----
-author: Hugo Authors
-title: Math Typesetting - use Mathematical notation in blog posts
-date: 2023-04-01
-description: A brief guide to setup KaTeX
-math: true
----
++++
+title = "I am Struggling"
+date = "2024-03-02T12:29:17-06:00"
 
-Mathematical notation in a Hugo project can be enabled by using
-[third party JavaScript libraries](https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html).
+#
+# description is optional
+#
+# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-<!--more-->
+tags = ["Personal"]
++++
 
-In this example we will be using [KaTeX](https://katex.org/).
+## Honey I am struggling
 
-- To enable KaTeX globally, set the parameter `math` to `true` in a project's
-  configuration file as follows.
-  - `config.toml`
-    ```toml
-    [params]
-      math = true
-    ```
-  - `config.yaml`
-    ```yaml
-    params:
-      math: true
-    ```
-- To enable KaTeX on a per page basis, include the parameter `math: true` in
-  Front Matter of Markdown content file as follows.
+Since the stroke I have found myself more and more frustrated by my inability to focus and head swimminess. My memory is still shit, more short term than long term. Bless my good fortune that it didn't take any of my important memories, like of my father or my childhood etc. But my short term memory has been just ravaged.
 
-  ```
-  ---
-  math: true
-  ---
-  ```
+I have been working on my blogs and what not lately and trying to be more self sustaining and not reliant on a company to host my things etc. Freedom over my words and data is important. But the more I try to set these things up, the more ignorant I feel. I used to be so good  with tech things especially internet tech things. Now if it wasn't in my wheel house pre-stroke, it is nearly impossible for me to grasp. 
 
-**Note:** The online reference of
-[Supported TeX Functions](https://katex.org/docs/supported.html) is a helpful resource.
-
-### Examples
-
-- Block math:
-
-  $$
-  \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-  $$
-
-- Inline math:
-
-  This is an inline polynomial: $5x^2 + 2y -7$.
+I will begin things and they feel familiar and all is well, but inevitably I hit a wall and then feel completely overwhelmed, shut down and then scrap the plans. Sometimes after spending 7+ hours trying to make the damn thing work. I know in the bigger scheme of things, folks are going through far worse and I should be happy things are as good as they are, but I cant help but feel inadequate. It's got to get better. But the snails pace of progress is not helping me with the strength to crawl out of the hole.

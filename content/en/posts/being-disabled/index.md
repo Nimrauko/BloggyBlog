@@ -1,164 +1,39 @@
----
-title: Markdown Syntax Guide
-date: 2023-02-11
-author: Hugo Authors
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
----
++++
+title = "Being Disabled"
+date = "2024-03-02T12:29:17-06:00"
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-<!--more-->
+#
+# description is optional
+#
+# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-## Headings
+tags = ["Personal", "Disability", "America"]
++++
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Its 4 AM. A Wednesday. While the world sleeps around me, I find myself unable to cling onto that fleeting notion of rest. My mind races with a million thoughts, mainly financial and also health woes.
 
-# H1
+See I live in the great state of Texas. And I truly believe this state is great, despite some of the failings in Austin (here's looking at you Greg Abbott). The part of Texas I live in however is rural. It's a long ways in any direction to any major town. So Doctors and Hospitals and specialists are hard to get to. I didn't know this moving back to the Lonestar State. When last I lived here, I was in high school and had medicaid, so imagine my surprise when I moved back from Shreveport.
 
-## H2
+I knew before the move where I would be going, and had the foresight to call Medicare and update everything so when I finally made it back to Texas it would all be in order. Well lucky me the Health Care plan I had in Louisiana had a similarly available plan in Texas! So I made the switch and all was well. Or so I thought.
 
-### H3
+It would so happen that because I am in the middle of B.F.E, there are few doctors that take my insurance within a 60 mile radius. And for the specialists, of which I need many with my various ailments, even fewer. I find myself asking how in the hell this could happen in one of the wealthiest states, in one of the wealthiest countries in the world. And while it baffles my mind, I am no aberration.
 
-#### H4
+And that's not the only frustration I, and many others face who live with disabilities. Depending on the nature of the disability and the severity, you could have need of far more than Medicare/Medicaid. Chiefly, Social Security/Disability.
 
-##### H5
+One of the things disabled folks here in the states struggle with, is Financial Strain. Rising costs of food and utilities, transportation, housing and healthcare coupled with the limited income provided by the Social Security Administration spells disaster for many of us who depend on SSDI. If you are married, this can be exacerbated.
 
-###### H6
+Many disabled people do not marry due to the risk of losing benefits or severe reduction in benefits. I am one of the disabled people that made the choice to marry before my illnesses progressed to a crippling point. Due to this my husbands income sometimes comes back on me and prevents me from qualifying for various aid. In the governments opinion, we are wealthy. This comes from having a bank account, a car we can barely afford etc.
 
-## Paragraph
+We live from paycheck to paycheck and with our luck so far the past 6 months, sometimes we go weeks without being able to afford essentials. But for some, the risk of not getting full benefits prevents them from taking the plunge with the one they love. Annoyingly, able-bodied folks tend to scoff at that and say "Well what difference does it make? It's just a piece of paper!" But it's so much more than that. That piece of paper can afford you many more rights in areas that a POA may not. Im not a lawyer but that's my understanding.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+Beyond the financial strain, we deal with healthcare concerns. Access to healthcare and Medical Expenses being chief among them. While being on disability grants access automatically to Medicare and sometimes Medicaid, we still face out of pocket expenses for Medications, Treatments and Specialized care (Durable Medical Equipment like Wheelchairs, Ventilators etc). On top of that the Co-Pays, Deductibles and expenses not covered by the insurance can quickly pile up creating additional financial strain.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Along the same line of Financial difficulties, are employment barriers. For those who are still able to work, there are limited job opportunities for those who are disabled, unless you have a degree or have the luck of the Irish. Lack of accommodations, inaccessible work places and outright discrimination also prevent many from being gainfully employed.
 
-## Image
+And if you are unable to work and have SSDI, you can't make side money to supplement the shortfall from your benefits. Things like part-time work or side work (Maybe you have a hobby that brings in a small amount of money here and there) has to be considered because if you make more than a certain amount, or work to a degree that its considered Gainful employment, you lose your benefits.
 
-You can use the following syntax to include an image. Path of the image should be relative to the `index.md` file.
+In my case, I get 900 (a bit more than that but not much more) a month. After my Medicare Premium (Its not free folks), which automatically is deducted regardless, I am left with $750 a month. That's for Food, Medicine, Car Note, Rent, Utilities etc. How can a person live on that? Well lucky you, I have the answer! You Can't.
 
-```markdown
-![Landscape](1.jpg)
-```
+Every year the Social Security Administration gives us a COLA (Cost Of Living Adjustment) that "Boosts" our benefits. This year it was $20. That's it. Minimum wage workers make $1320 a month before taxes. But the disabled get far less than that a month for Disability. This is abhorrent. This country must do better for its Disabled Citizens. The things I have listed here are only a fraction of the things wrong with the system. We need our Able Bodied allies and loved ones to reach out to disability rights advocates Locally and Nationally to help put the grips on congress to push legislation that will help bring our benefits up to a level befitting a "First World" nation.
 
-![Landscape](1.jpg)
-
-You can also include image from external sources.
-
-```markdown
-![Image](https://source.unsplash.com/random/600x400/?tech)
-```
-
-![Image](https://source.unsplash.com/random/600x400/?tech)
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-> You can use Markdown syntax within a blockquote, like **bold**,  _italics_, [links](https://gohugo.io/), `code`.
-
-### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-### Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## Code Blocks
-
-### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-### Inline code
-
-Use the backtick to refer to a `variable` within a sentence.
-
-## List Types
-
-### Ordered List
-
-1. First item
-2. Second item with some `code` in it
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item with some `code` in it
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+Shira Nazarian
