@@ -3,7 +3,8 @@ title = "About Shira"
 menu = "main"
 +++
 
-# Bear![me](https://i.ibb.co/RhS95Ww/twistedtranssister-me-riding-on-the-back-of-a-black-stalion-whi-a532639f-2b67-495b-94c6-96cc3f93dfa2.png)
+# About Shira
+[me](https://i.ibb.co/RhS95Ww/twistedtranssister-me-riding-on-the-back-of-a-black-stalion-whi-a532639f-2b67-495b-94c6-96cc3f93dfa2.png)
 ✡️Jewish 🏳️‍⚧️Trans-woman 👩🏼‍🦽Disabled 🌹Libertarian Socialist 🇨🇱Texan
 
 # Core Beliefs:
@@ -25,16 +26,3 @@ There are many more things I could go on about. And I will! You can see my views
 [🦣 My Mastodon Profile](tab:https://babka.social/@lonestarmensch)
 
 [🦋 My Bluesky Profile](tab:https://bsky.app/profile/lonestarmensch.com)
-
-
-Website: https://bearblog.dev
-
-There is a website obesity crisis. Bloated websites are full of scripts, ads, and trackers slowing your readers down every time they try to read your well-crafted content.
-
-Bear is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
-
-Bear makes it simple to publish content online and grow an audience while keeping pages tiny, fast, and **optimized for search engines.**
-
-Each page is ~5kb.
-
-Learn more and contribute on [GitHub](https://github.com/HermanMartinus/bearblog).
