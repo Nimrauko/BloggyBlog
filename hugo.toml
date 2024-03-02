@@ -299,11 +299,11 @@ disqusShortname = ''
 
 [[params.socialIcons]]
 name = "Mastodon"
-url = "https://github.com/hugo-sid"
+url = "https://babka.social/@lonestarmensch"
 
 [[params.socialIcons]]
 name = "Bluesky"
-url = "https://twitter.com"
+url = "https://bsky.app/profile/lonestarmensch.com"
 
 [[params.socialIcons]]
 name = "Rss"
