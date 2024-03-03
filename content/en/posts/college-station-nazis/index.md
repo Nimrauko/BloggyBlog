@@ -12,10 +12,10 @@ tags = ["Personal"]
 
 ### Neo Nazis
 
-![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi1.jpg "San Juan Mountains")
+![Neo Nazis in College Station Texas](/posts/college-station-nazis/college_station_nazi1.jpg "San Juan Mountains")
 
-![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi2.jpg "San Juan Mountains")
+![More Neo Nazis in College Station Texas](/posts/college-station-nazis/college_station_nazi2.jpg "San Juan Mountains")
 
-![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi3.jpg "San Juan Mountains")
+![Even more Neo Nazis in College Station Texas](/posts/college-station-nazis/college_station_nazi3.jpg "San Juan Mountains")
 
-![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi4.jpg "San Juan Mountains")
+![Lastly, more Neo Nazis in College Station Texas](/posts/college-station-nazis/college_station_nazi4.jpg "San Juan Mountains")
