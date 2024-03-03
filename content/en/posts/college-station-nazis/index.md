@@ -10,9 +10,9 @@ date = "2024-03-02T12:29:17-06:00"
 tags = ["Personal"]
 +++
 
-### Neo Nazis in College Station Texas
+## Neo Nazis in College Station Texas
 
-#### On Saturday Neo Nazis came to College Station Texas. A physical manifestation of the sickness that is creeping across this country
+ ***On Saturday Neo Nazis came to College Station Texas. A physical manifestation of the sickness that is creeping across this country***
 
 ![Neo Nazis in College Station Texas](/posts/college-station-nazis/college_station_nazi1.jpg "San Juan Mountains")
 
