@@ -10,6 +10,6 @@ date = "2024-03-02T12:29:17-06:00"
 tags = ["Personal"]
 +++
 
-# Neo Nazis
+### Neo Nazis
 
 ![The San Juan Mountains are beautiful!](/content/en/posts/college-station-nazis/college_station_nazi1.jpg "San Juan Mountains")
