@@ -16,6 +16,6 @@ tags = ["Personal"]
 
 ![More Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi2.jpg "San Juan Mountains")
 
-![Even more Neo Nazis in College Station Texas](/content/en/posts/college-station-nazis/College_Station_Nazi3.jpg "San Juan Mountains")
+![Even more Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi3.jpg "San Juan Mountains")
 
-![Lastly, more Neo Nazis in College Station Texas](/content/en/posts/college-station-nazis/College_Station_Nazi4.jpg "San Juan Mountains")
+![Lastly, more Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi4.jpg "San Juan Mountains")
