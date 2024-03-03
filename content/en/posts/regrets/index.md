@@ -1,6 +1,6 @@
 +++
 title = "Regrets"
-date = "2024-03-03T12:29:17-06:00"
+date = "2024-03-03T00:29:17-06:00"
 
 #
 # description is optional
