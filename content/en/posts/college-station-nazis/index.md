@@ -14,10 +14,12 @@ tags = ["Personal"]
 
  ***On Saturday Neo Nazis came to College Station Texas. A physical manifestation of the sickness that is creeping across this country***
 
-![Neo Nazis in College Station Texas](/posts/college-station-nazis/college_station_nazi1.jpg "San Juan Mountains")
+![Neo Nazis in College Station Texas](/posts/college-station-nazis/college_station_nazi1.jpg "Neo Nazis in College Station Texas")
 
-![More Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi2.jpg "San Juan Mountains")
+![More Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi2.jpg "More Neo Nazis in College Station Texas")
 
-![Even more Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi3.jpg "San Juan Mountains")
+![Even more Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi3.jpg "Even more Neo Nazis in College Station Texas")
 
-![Lastly, more Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi4.jpg "San Juan Mountains")
+![Lastly, more Neo Nazis in College Station Texas](/posts/college-station-nazis/College_Station_Nazi4.jpg "Lastly, more Neo Nazis in College Station Texas")
+
+Photos and reporting of this courtesy of [/u/LargeSteakPico](https://www.reddit.com/user/LargeSteakPico/)
