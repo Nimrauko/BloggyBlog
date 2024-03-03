@@ -1,5 +1,5 @@
 title = "Awesome Hugo blog"
-baseURL = 'https://bloggyblog.pages.dev'
+baseURL = 'https://www.lonestarmensch.ink'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
