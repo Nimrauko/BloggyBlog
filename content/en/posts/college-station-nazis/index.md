@@ -13,3 +13,9 @@ tags = ["Personal"]
 ### Neo Nazis
 
 ![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi1.jpg "San Juan Mountains")
+
+![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi2.jpg "San Juan Mountains")
+
+![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi3.jpg "San Juan Mountains")
+
+![The San Juan Mountains are beautiful!](/posts/college-station-nazis/college_station_nazi4.jpg "San Juan Mountains")
