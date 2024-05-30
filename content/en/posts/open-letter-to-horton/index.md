@@ -7,7 +7,7 @@ date = "2024-05-29T12:29:17-06:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["Personal", “Louisiana”, "America”, “Politics”]
+tags = ["Personal", "Louisiana", "America", "Politics"]
 +++
 
 
